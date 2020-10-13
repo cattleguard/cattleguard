@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Tony 
+# 👋 Hi, I'm Tony 
 
-### Social
+## Social
 ![Twitter Follow](https://img.shields.io/twitter/follow/anthonytowry)
 
